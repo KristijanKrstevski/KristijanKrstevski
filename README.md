@@ -114,7 +114,7 @@ A web application exploring a virtual cinema experience.
 - Contributed to enterprise software and HR-focused applications.
 - Collaborated within an established software development team.
 
-### Full-Stack Developer — Webook.co.uk
+### Full-Stack Developer — Weboook.co.uk
 **November 2024 – June 2025**
 
 - Contributed to web and mobile application development.
