@@ -1,16 +1,14 @@
-
 <div align="center">
 
 # Hey, I'm Kristijan Krstevski 👋
 
-### Full-Stack Developer | Web & Mobile Development
+### Software Developer | Web Applications, APIs & Deployment
 
-📍 Skopje, North Macedonia  
+📍 Skopje, Macedonia  
 🎓 Computer Science Student @ FCSE (FINKI), UKIM  
 💼 Open to Software Development Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristijan-krstevski/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KristijanKrstevski)
 
 </div>
 
@@ -18,22 +16,21 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** and final-year Computer Science student at the Faculty of Computer Science and Engineering (FCSE), UKIM.
+I'm a software developer completing my Computer Science degree at the Faculty of Computer Science and Engineering (FCSE), UKIM.
 
-I have hands-on experience developing web applications, backend services, REST APIs, and cross-platform mobile solutions through professional, freelance, and academic work.
+I build web applications across user interfaces, APIs, databases, and deployment. My current projects use Next.js, React, Node.js, PostgreSQL, and services such as Appwrite and Supabase. I also have professional experience with Python REST APIs, Flutter interfaces, and C#/.NET.
 
-My experience includes working with JavaScript/TypeScript frameworks, Python/Django, C#/.NET, databases, and cloud deployment platforms.
+I have built and deployed applications on VPS servers and worked with AWS EC2 for an Android-to-SIP communication prototype. I enjoy working through the full development process, from understanding a problem to implementing and deploying a working solution.
 
-I'm passionate about building practical software solutions, exploring emerging technologies, and continuously improving my engineering skills.
-
-- 🔭 Working on web, mobile, and AI-powered applications
-- 🌱 Exploring backend architecture, cloud technologies, and system design
-- ⚡ Interested in full-stack engineering, mobile development, and AI integrations
-- 🎯 Focused on building maintainable, reliable, and scalable applications
+- 🔭 Building web applications and product prototypes
+- 🌱 Continuing to develop my backend, database, and deployment skills
+- 🎯 Interested in software development roles focused on building and improving web applications
 
 ---
 
 ## 🛠️ Tech Stack
+
+These are technologies I have used across professional work, coursework, and independent projects. My experience varies by technology.
 
 ### 💻 Programming Languages
 
@@ -49,38 +46,37 @@ I'm passionate about building practical software solutions, exploring emerging t
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 ### ⚙️ Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 📱 Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases & Backend Services
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-### ☁️ Tools & Cloud
+### ☁️ Tools & Deployment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonec2&logoColor=white)
+![VPS Hosting](https://img.shields.io/badge/VPS_Hosting-333333?style=for-the-badge)
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Recent Projects
 
 ### 🎵 CrowdJ
 
@@ -90,7 +86,7 @@ Web-based product.
 
 ### 🐾 Pet Marketplace
 
-A responsive marketplace application for discovering and listing pets.
+A marketplace application for browsing and listing pets, built with Next.js, React, and Supabase/PostgreSQL.
 
 🔗 **[Live Demo](https://pets.appwrite.network/en/)**
 
@@ -100,56 +96,53 @@ A web application exploring a virtual cinema experience.
 
 🔗 **[Live Demo](https://cinema-at-home.appwrite.network/)**
 
-> Source code for selected projects is maintained in private repositories.
+> Source code for these projects is kept private. I can discuss the implementation and demonstrate my work during an interview.
 
 ---
 
 ## 💼 Professional Experience
 
-### Software Development Intern — Foxit.mk
+### Software Development Intern — Foxit doo Skopje
 **July 2025 – November 2025**
 
-- Developed and maintained software functionality using C#, Razor, and Blazor.
-- Worked with SQL and relational databases.
-- Contributed to enterprise software and HR-focused applications.
-- Collaborated within an established software development team.
+- Built a C#/.NET training application with a SQL Server database, authentication, and email functionality.
+- Cleaned and structured historical HR records from Excel and older files to prepare them for database import.
+- Tested HR application workflows and edge cases, including leave requests and differences between user roles.
+- Helped investigate minor frontend and backend issues and discussed expected behavior with the team.
 
-### Full-Stack Developer — Weboook.co.uk
+### Web & Mobile Developer — Weboook.co.uk
 **November 2024 – June 2025**
 
-- Contributed to web and mobile application development.
-- Worked with Flutter, Next.js, and Node.js.
-- Maintained and improved application features.
-- Collaborated with a distributed development team.
+- Implemented Figma designs as WordPress websites using Elementor and adapted Webflow templates for client websites.
+- Built most of the user interface for a Flutter mobile application and made limited backend changes.
+- Updated e-commerce and booking application interfaces, fixed visual issues, and helped troubleshoot booking functionality.
+- Troubleshot basic VPS, file-management, and PHP/Laravel application issues.
 
-### Freelance Developer — Remote
+### Independent Web Developer
 **May 2023 – October 2024**
 
-- Developed REST APIs using Python and Django REST Framework.
-- Integrated third-party APIs and services.
-- Built and maintained websites using WordPress and Webflow.
-- Worked independently on web development projects.
+- Built and sold a reusable vehicle-listing web application to local clients.
+- Developed backend functionality and REST APIs using Python.
+- Deployed the vehicle-listing application on a VPS and maintained its hosting while clients used it.
 
 ---
 
 ## 📊 GitHub Activity
 
-You can view my contributions and development activity directly on my GitHub profile.
+My public repositories include coursework and collaborative projects. Much of my recent application work is in private repositories; the live examples above show some of what I have built.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to software development opportunities, interesting projects, and collaboration with engineering teams.
+I'm open to software development opportunities focused on web applications, APIs, and deployment.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristijan-krstevski/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KristijanKrstevski)
 
 ---
 
 <div align="center">
 
-*Always learning. Always building.*
+*Building and learning through real projects.*
 
 </div>
